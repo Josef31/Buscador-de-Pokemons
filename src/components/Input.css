@@ -1,0 +1,62 @@
+.Name{
+    display: inline-block;
+  }
+  .PokemonN{
+    display: inline-block;
+  }
+  
+  .Experience{
+    display: inline-block;
+  }
+  .PokemonE{
+    display: inline-block;
+  }
+  
+  .Hp{
+    display: inline-block;
+  }
+  .PokemonH{
+    display: inline-block;
+  }
+  
+  .Atk{
+    display: inline-block;
+  }
+  .PokemonA{
+    display: inline-block;
+  }
+  
+  .Def{
+    display: inline-block;
+  }
+  .PokemonD{
+    display: inline-block;
+  }
+  
+  .SAtk{
+    display: inline-block;
+  }
+  .PokemonSA{
+    display: inline-block;
+  }
+  
+  .SDef{
+    display: inline-block;
+  }
+  .PokemonSD{
+    display: inline-block;
+  }
+  
+  .Speed{
+    display: inline-block;
+  }
+  .PokemonSpe{
+    display: inline-block;
+  }
+  
+  .Sprite{
+    display: inline-block;
+  }
+  .PokemonSpri{
+    display: inline-block;
+  }
